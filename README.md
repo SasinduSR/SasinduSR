@@ -1,26 +1,31 @@
-<h1 align="center">Hello World, I'm Sasindu</h1>
+<!-- profile view count -->
+<img align="right" src="https://komarev.com/ghpvc/?username=iamSasinduSR">
+<!-- introduction -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Sasindu!;&center=true&font=Righteous&size=35">
+  </a>
+</h1>
 
-# 💫 About Me:
-
-🌍 I'm based in Messina, Italy<br>⚡ Fun fact I am Funny
+<br />
 
 ## 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/700696315872542751) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Saziabro) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Saziabro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sasindu-rajapaksha)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/iamSasinduSR) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamSasinduSR) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamSasinduSR) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamSasinduSR)
 
-<p align="left"> <a href="https://twitter.com/saziabro" target="blank"><img src="https://img.shields.io/twitter/follow/saziabro?logo=twitter&style=for-the-badge" alt="saziabro" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iamSasinduSR" target="blank"><img src="https://img.shields.io/twitter/follow/iamSasinduSR?logo=twitter&style=for-the-badge" alt="iamSasinduSR" /></a> </p>
 
 ## Stats:
 
-<a href="http://www.github.com/saziabro"><img src="https://github-readme-stats.vercel.app/api?username=saziabro&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="saziabro's GitHub stats" /></a>
+<a href="http://www.github.com/iamSasinduSR"><img src="https://github-readme-stats.vercel.app/api?username=iamSasinduSR&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="iamSasinduSR's GitHub stats" /></a>
 
-<a href="http://www.github.com/saziabro"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saziabro&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/iamSasinduSR"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamSasinduSR&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/saziabro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saziabro&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/iamSasinduSR" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSasinduSR&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Saziabro&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=iamSasinduSR&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 # 💻 Tech Stack:
 
@@ -51,9 +56,9 @@
 <a target="_blank" href="https://docs.amplify.aws/assets/logo-dark.svg" style="display: inline-block;"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saziabro/saziabro/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saziabro/saziabro/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/saziabro/saziabro/output/github-snake.svg" />
-</picture>
+<hr />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/iamsasindusr/iamsasindusr/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/iamsasindusr/iamsasindusr/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/iamsasindusr/iamsasindusr/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
