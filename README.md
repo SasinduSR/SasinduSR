@@ -1,5 +1,5 @@
 <!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=iamSasinduSR">
+<img align="right" src="https://komarev.com/ghpvc/?username=SasinduSR">
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -11,21 +11,21 @@
 
 ## 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/iamSasinduSR) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamSasinduSR) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamSasinduSR) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamSasinduSR)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/SasinduSR) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SasinduSR) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/SasinduSR) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SasinduSR)
 
-<p align="left"> <a href="https://twitter.com/iamSasinduSR" target="blank"><img src="https://img.shields.io/twitter/follow/iamSasinduSR?logo=twitter&style=for-the-badge" alt="iamSasinduSR" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SasinduSR" target="blank"><img src="https://img.shields.io/twitter/follow/SasinduSR?logo=twitter&style=for-the-badge" alt="SasinduSR" /></a> </p>
 
 ## Stats:
 
-<a href="http://www.github.com/iamSasinduSR"><img src="https://github-readme-stats.vercel.app/api?username=iamSasinduSR&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="iamSasinduSR's GitHub stats" /></a>
+<a href="http://www.github.com/SasinduSR"><img src="https://github-readme-stats.vercel.app/api?username=SasinduSR&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SasinduSR's GitHub stats" /></a>
 
-<a href="http://www.github.com/iamSasinduSR"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamSasinduSR&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/SasinduSR"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SasinduSR&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/iamSasinduSR" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSasinduSR&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/SasinduSR" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasinduSR&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=iamSasinduSR&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SasinduSR&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 # 💻 Tech Stack:
 
@@ -58,7 +58,7 @@
 </p>
 <hr />
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamSasinduSR/iamSasinduSR/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamSasinduSR/iamSasinduSR/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/iamSasinduSR/iamSasinduSR/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SasinduSR/SasinduSR/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SasinduSR/SasinduSR/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SasinduSR/SasinduSR/output/github-snake.svg" />
 </picture>
